@@ -4,7 +4,7 @@
 
 Clone the repository -
 ```shell
-git clone --branch tail-react https://github.com/Flying-Raccoon-AI/raccoon-quickstarts
+git clone -b tail-react https://github.com/Flying-Raccoon-AI/raccoon-quickstarts raccoon-tail-react
 ```
 
 Setting up environment variables
