@@ -15,7 +15,7 @@ cd raccoon-tail-react
 cp .env.example .env.local
 ```
 
-Add `VITE_RACCOON_SECRET_KEY` and `RACCOON_USER_PASSCODE` variables.
+Add `VITE_RACCOON_SECRET_KEY` and `VITE_RACCOON_USER_PASSCODE` variables.
 
 Start the applicaton - 
 
